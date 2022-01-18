@@ -9,7 +9,7 @@ cl rrtmain.cpp rrt.cpp rrtconnect.cpp rrtstar.cpp visualize_rrt.cpp astar.cpp ma
 
 2) Open rrtmain executable created, then select a planner, start and end nodes, obstacles and press enter to visualisee a planner.
 
-#### Refer to usage guide for more details.
+#### Refer to user guide for more details.
 
 ## Sample Visualisations
 ## A*
