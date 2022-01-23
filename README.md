@@ -7,7 +7,7 @@ The visualisation of planners is as follows.
 1) run the following command in src folder.
 cl rrtmain.cpp rrt.cpp rrtconnect.cpp rrtstar.cpp visualize_rrt.cpp astar.cpp map.cpp GridVisual.cpp fssimplewindow.cpp yssimplesound.cpp ysglfontdata.c yspng.cpp yspngenc.cpp
 
-2) Open rrtmain executable created, then select a planner, start and end nodes, obstacles and press enter to visualisee a planner.
+2) Open rrtmain executable created, then select a planner, start and end nodes, obstacles and press enter to visualise a planner.
 
 #### Refer to user guide for more details.
 
